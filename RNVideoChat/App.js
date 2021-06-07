@@ -11,3 +11,9 @@ export default class App extends Component {
 
   render = () => <Navigator />;
 }
+/*
+
+adb devices
+
+react-native run-android --deviceId=ce061716ad761c740d7e
+*/
